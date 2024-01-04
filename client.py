@@ -13,6 +13,6 @@ data = {
     'region' : '2'
 }
 
-res = requests.get(api,) 
+res = requests.get(api,data) 
 print(res.text)
 
