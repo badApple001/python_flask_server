@@ -1,4 +1,5 @@
-
+# 代码架构图
+![](./README_RES/framework.png)
 
 # 服务器代码热更演示
 ![](./README_RES/1.gif)
