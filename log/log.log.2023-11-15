@@ -1,0 +1,164 @@
+22:02:43 ERROR:init hot update
+22:02:47 DEBUG:正在加载管道...
+22:02:47 DEBUG:channel.unity_subpackage
+22:02:47 DEBUG:channel.channel_manager
+22:02:47 DEBUG:channel.punchin_channel
+22:02:47 DEBUG:加载管道完成
+22:20:43 DEBUG:渠道更新中...
+22:20:43 DEBUG:channel.unity_subpackage
+22:20:43 DEBUG:channel.tradplus_sdk_depends
+22:20:43 DEBUG:channel.channel_manager
+22:20:43 DEBUG:channel.punchin_channel
+22:49:34 ERROR:init hot update
+22:49:38 DEBUG:正在加载管道...
+22:49:38 DEBUG:channel.unity_subpackage
+22:49:38 DEBUG:channel.tradplus_sdk_depends
+22:49:38 DEBUG:channel.channel_manager
+22:49:38 DEBUG:channel.punchin_channel
+22:49:38 DEBUG:加载管道完成
+22:56:57 ERROR:init hot update
+22:57:01 DEBUG:正在加载管道...
+22:57:01 DEBUG:channel.unity_subpackage
+22:57:01 DEBUG:channel.tradplus_sdk_depends
+22:57:01 DEBUG:channel.channel_manager
+22:57:01 DEBUG:channel.punchin_channel
+22:57:01 DEBUG:加载管道完成
+23:04:10 ERROR:init hot update
+23:04:15 DEBUG:正在加载管道...
+23:04:15 DEBUG:channel.unity_subpackage
+23:04:15 DEBUG:channel.tradplus_sdk_depends
+23:04:15 DEBUG:channel.channel_manager
+23:04:15 DEBUG:channel.punchin_channel
+23:04:15 DEBUG:加载管道完成
+23:09:44 ERROR:init hot update
+23:09:48 DEBUG:正在加载管道...
+23:09:48 DEBUG:channel.unity_subpackage
+23:09:48 DEBUG:channel.tradplus_sdk_depends
+23:09:48 DEBUG:channel.channel_manager
+23:09:48 DEBUG:channel.punchin_channel
+23:09:48 DEBUG:加载管道完成
+23:10:13 ERROR:Traceback (most recent call last):
+  File "/www/python_projs/python_flask_server/channel/channel_manager.py", line 14, in dispatch
+    return channel.apply( msg )
+  File "/www/python_projs/python_flask_server/channel/tradplus_sdk_depends.py", line 135, in apply
+    'debug':','.join(valid_codes)
+TypeError: sequence item 0: expected str instance, int found
+
+23:12:16 ERROR:init hot update
+23:12:20 DEBUG:正在加载管道...
+23:12:20 DEBUG:channel.unity_subpackage
+23:12:20 DEBUG:channel.tradplus_sdk_depends
+23:12:20 DEBUG:channel.channel_manager
+23:12:20 DEBUG:channel.punchin_channel
+23:12:20 DEBUG:加载管道完成
+23:14:40 ERROR:init hot update
+23:14:44 DEBUG:正在加载管道...
+23:14:44 DEBUG:channel.unity_subpackage
+23:14:44 DEBUG:channel.tradplus_sdk_depends
+23:14:44 DEBUG:channel.channel_manager
+23:14:44 DEBUG:channel.punchin_channel
+23:14:44 DEBUG:加载管道完成
+23:14:48 DEBUG:channel absence: A
+23:14:48 DEBUG:channel absence: d
+23:14:48 DEBUG:channel absence: m
+23:14:48 DEBUG:channel absence: o
+23:14:48 DEBUG:channel absence: b
+23:15:25 DEBUG:channel absence: A
+23:15:25 DEBUG:channel absence: d
+23:15:25 DEBUG:channel absence: m
+23:15:25 DEBUG:channel absence: o
+23:15:25 DEBUG:channel absence: b
+23:15:25 DEBUG:not found apps build.gradle
+23:15:50 DEBUG:channel absence: A
+23:15:50 DEBUG:channel absence: d
+23:15:50 DEBUG:channel absence: m
+23:15:50 DEBUG:channel absence: o
+23:15:50 DEBUG:channel absence: b
+23:15:50 DEBUG:not found apps build.gradle
+23:20:57 DEBUG:channel absence: A
+23:20:57 DEBUG:channel absence: d
+23:20:57 DEBUG:channel absence: m
+23:20:57 DEBUG:channel absence: o
+23:20:57 DEBUG:channel absence: b
+23:20:57 DEBUG:not found apps build.gradle
+23:25:25 DEBUG:channel absence: A
+23:25:25 DEBUG:channel absence: d
+23:25:25 DEBUG:channel absence: m
+23:25:25 DEBUG:channel absence: o
+23:25:25 DEBUG:channel absence: b
+23:25:25 DEBUG:not found apps build.gradle
+23:27:36 ERROR:init hot update
+23:27:40 DEBUG:正在加载管道...
+23:27:40 DEBUG:channel.unity_subpackage
+23:27:40 DEBUG:channel.tradplus_sdk_depends
+23:27:40 DEBUG:channel.channel_manager
+23:27:40 DEBUG:channel.punchin_channel
+23:27:40 DEBUG:加载管道完成
+23:27:49 DEBUG:channel absence: A
+23:27:49 DEBUG:channel absence: d
+23:27:49 DEBUG:channel absence: m
+23:27:49 DEBUG:channel absence: o
+23:27:49 DEBUG:channel absence: b
+23:27:49 ERROR:Traceback (most recent call last):
+  File "/www/python_projs/python_flask_server/channel/channel_manager.py", line 14, in dispatch
+    return channel.apply( msg )
+  File "/www/python_projs/python_flask_server/channel/tradplus_sdk_depends.py", line 143, in apply
+    return Run(sdk_version)
+  File "/www/python_projs/python_flask_server/channel/tradplus_sdk_depends.py", line 118, in Run
+    appGradleCode = GetDependencies(sdk_version)
+  File "/www/python_projs/python_flask_server/channel/tradplus_sdk_depends.py", line 91, in GetDependencies
+    logInfo(','.json(adsChannel))
+AttributeError: 'str' object has no attribute 'json'
+
+23:29:15 ERROR:init hot update
+23:29:19 DEBUG:正在加载管道...
+23:29:19 DEBUG:channel.unity_subpackage
+23:29:19 DEBUG:channel.tradplus_sdk_depends
+23:29:19 DEBUG:channel.channel_manager
+23:29:19 DEBUG:channel.punchin_channel
+23:29:19 DEBUG:加载管道完成
+23:29:24 DEBUG:channel absence: A
+23:29:24 DEBUG:channel absence: d
+23:29:24 DEBUG:channel absence: m
+23:29:24 DEBUG:channel absence: o
+23:29:24 DEBUG:channel absence: b
+23:29:24 DEBUG:A,d,m,o,b
+23:29:39 DEBUG:channel absence: A
+23:29:39 DEBUG:channel absence: d
+23:29:39 DEBUG:channel absence: m
+23:29:39 DEBUG:channel absence: o
+23:29:39 DEBUG:channel absence: b
+23:29:39 DEBUG:A,d,m,o,b
+23:29:39 DEBUG:not found apps build.gradle
+23:59:15 ERROR:init hot update
+23:59:19 DEBUG:正在加载管道...
+23:59:19 DEBUG:channel.unity_subpackage
+23:59:19 DEBUG:channel.tradplus_sdk_depends
+23:59:19 DEBUG:channel.channel_manager
+23:59:19 DEBUG:channel.punchin_channel
+23:59:19 DEBUG:加载管道完成
+01:01:44 ERROR:init hot update
+01:01:48 DEBUG:正在加载管道...
+01:01:48 DEBUG:channel.unity_subpackage
+01:01:48 DEBUG:channel.tradplus_sdk_depends
+01:01:48 DEBUG:channel.channel_manager
+01:01:48 DEBUG:channel.punchin_channel
+01:01:48 DEBUG:加载管道完成
+01:03:58 DEBUG:channel absence: A
+01:03:58 DEBUG:channel absence: d
+01:03:58 DEBUG:channel absence: m
+01:03:58 DEBUG:channel absence: o
+01:03:58 DEBUG:channel absence: b
+01:03:58 DEBUG:A,d,m,o,b
+01:04:05 DEBUG:channel absence: A
+01:04:05 DEBUG:channel absence: d
+01:04:05 DEBUG:channel absence: m
+01:04:05 DEBUG:channel absence: o
+01:04:05 DEBUG:channel absence: b
+01:04:05 DEBUG:A,d,m,o,b
+01:04:11 DEBUG:channel absence: A
+01:04:11 DEBUG:channel absence: d
+01:04:11 DEBUG:channel absence: m
+01:04:11 DEBUG:channel absence: o
+01:04:11 DEBUG:channel absence: b
+01:04:11 DEBUG:A,d,m,o,b

@@ -1,0 +1,42 @@
+16:54:42 ERROR:init hot update
+16:54:46 DEBUG:正在加载管道...
+16:54:46 DEBUG:channel.channel_manager
+16:54:46 DEBUG:channel.punchin_channel
+16:54:46 DEBUG:channel.unity_subpackage
+16:54:46 DEBUG:加载管道完成
+16:56:25 ERROR:init hot update
+16:56:30 DEBUG:正在加载管道...
+16:56:30 DEBUG:channel.channel_manager
+16:56:30 DEBUG:channel.punchin_channel
+16:56:30 DEBUG:channel.unity_subpackage
+16:56:30 DEBUG:加载管道完成
+17:05:55 ERROR:init hot update
+17:06:00 DEBUG:姝ｅ湪鍔犺浇绠￠亾...
+17:06:00 DEBUG:channel.unity_subpackage
+17:06:00 DEBUG:channel.channel_manager
+17:06:00 DEBUG:channel.punchin_channel
+17:06:00 DEBUG:鍔犺浇绠￠亾瀹屾垚
+17:10:47 DEBUG:set status: 1
+17:17:30 DEBUG:set status: 0
+17:22:10 DEBUG:set status: 1
+17:33:08 DEBUG:set status: 1
+17:33:10 DEBUG:set status: 0
+17:39:57 DEBUG:set status: 1
+17:40:01 DEBUG:set status: 0
+17:40:12 DEBUG:set status: 1
+17:42:57 DEBUG:set status: 0
+17:43:16 DEBUG:set status: 0
+17:43:16 DEBUG:set status: 1
+17:43:25 DEBUG:set status: 1
+17:43:27 DEBUG:set status: 0
+17:43:30 DEBUG:set status: 1
+17:43:31 DEBUG:set status: 0
+17:48:23 DEBUG:set status: 0
+17:52:47 DEBUG:set status: 1
+17:52:49 DEBUG:set status: 0
+16:30:41 ERROR:init hot update
+16:30:45 DEBUG:姝ｅ湪鍔犺浇绠￠亾...
+16:30:45 DEBUG:channel.unity_subpackage
+16:30:45 DEBUG:channel.channel_manager
+16:30:45 DEBUG:channel.punchin_channel
+16:30:45 DEBUG:鍔犺浇绠￠亾瀹屾垚

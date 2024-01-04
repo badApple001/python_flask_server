@@ -1,0 +1,443 @@
+16:41:18 DEBUG:tick
+16:41:22 DEBUG:tick
+16:41:26 DEBUG:tick
+16:44:09 DEBUG:tick
+16:51:50 DEBUG:正在加载管道...
+16:51:50 DEBUG:['channel_manager.py', 'unity_subpackage.py', '__pycache__']
+16:51:50 DEBUG:检验新渠道
+16:55:52 DEBUG:正在加载管道...
+16:55:52 DEBUG:channel.channel_manager.py
+16:55:52 DEBUG:channel.unity_subpackage.py
+16:55:52 DEBUG:加载管道完成
+16:55:56 DEBUG:检验新渠道
+16:56:28 DEBUG:正在加载管道...
+16:56:28 DEBUG:channel.channel_manager
+16:56:28 DEBUG:channel.unity_subpackage
+16:56:28 DEBUG:加载管道完成
+17:07:41 DEBUG:正在加载管道...
+17:07:41 DEBUG:channel.channel_manager
+17:07:41 DEBUG:channel.unity_subpackage
+17:07:41 DEBUG:加载管道完成
+17:09:57 DEBUG:正在加载管道...
+17:09:57 DEBUG:channel.channel_manager
+17:09:57 DEBUG:channel.unity_subpackage
+17:09:57 DEBUG:加载管道完成
+17:10:01 DEBUG:检验新渠道
+17:10:01 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:\\PythonWorkspace\\Python-Projects\\Flask_Server\\hot_update/update_file.txt'
+
+17:10:05 DEBUG:检验新渠道
+17:10:05 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:\\PythonWorkspace\\Python-Projects\\Flask_Server\\hot_update/update_file.txt'
+
+17:10:09 DEBUG:检验新渠道
+17:10:09 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:\\PythonWorkspace\\Python-Projects\\Flask_Server\\hot_update/update_file.txt'
+
+17:10:13 DEBUG:检验新渠道
+17:10:13 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:\\PythonWorkspace\\Python-Projects\\Flask_Server\\hot_update/update_file.txt'
+
+17:10:17 DEBUG:检验新渠道
+17:10:17 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:\\PythonWorkspace\\Python-Projects\\Flask_Server\\hot_update/update_file.txt'
+
+17:10:21 DEBUG:检验新渠道
+17:10:21 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:\\PythonWorkspace\\Python-Projects\\Flask_Server\\hot_update/update_file.txt'
+
+17:10:25 DEBUG:检验新渠道
+17:10:25 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:\\PythonWorkspace\\Python-Projects\\Flask_Server\\hot_update/update_file.txt'
+
+17:10:29 DEBUG:检验新渠道
+17:10:29 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:\\PythonWorkspace\\Python-Projects\\Flask_Server\\hot_update/update_file.txt'
+
+17:10:33 DEBUG:检验新渠道
+17:10:33 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:\\PythonWorkspace\\Python-Projects\\Flask_Server\\hot_update/update_file.txt'
+
+17:10:37 DEBUG:检验新渠道
+17:10:37 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:\\PythonWorkspace\\Python-Projects\\Flask_Server\\hot_update/update_file.txt'
+
+17:10:41 DEBUG:检验新渠道
+17:10:41 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:\\PythonWorkspace\\Python-Projects\\Flask_Server\\hot_update/update_file.txt'
+
+17:10:45 DEBUG:检验新渠道
+17:10:45 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:\\PythonWorkspace\\Python-Projects\\Flask_Server\\hot_update/update_file.txt'
+
+17:10:49 DEBUG:检验新渠道
+17:10:49 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:\\PythonWorkspace\\Python-Projects\\Flask_Server\\hot_update/update_file.txt'
+
+17:11:18 DEBUG:正在加载管道...
+17:11:18 DEBUG:channel.channel_manager
+17:11:18 DEBUG:channel.test_channel
+17:11:18 DEBUG:channel.unity_subpackage
+17:11:18 DEBUG:加载管道完成
+17:11:22 DEBUG:检验新渠道
+17:11:22 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:11:26 DEBUG:检验新渠道
+17:11:26 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:11:30 DEBUG:检验新渠道
+17:11:30 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:11:34 DEBUG:检验新渠道
+17:11:34 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:11:38 DEBUG:检验新渠道
+17:11:38 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:11:42 DEBUG:检验新渠道
+17:11:42 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:11:46 DEBUG:检验新渠道
+17:11:46 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:11:50 DEBUG:检验新渠道
+17:11:50 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:11:54 DEBUG:检验新渠道
+17:11:54 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:11:58 DEBUG:检验新渠道
+17:11:58 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:12:02 DEBUG:检验新渠道
+17:12:02 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:12:06 DEBUG:检验新渠道
+17:12:06 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:12:10 DEBUG:检验新渠道
+17:12:10 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:12:14 DEBUG:检验新渠道
+17:12:14 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:12:18 DEBUG:检验新渠道
+17:12:50 DEBUG:正在加载管道...
+17:12:50 DEBUG:channel.channel_manager
+17:12:50 DEBUG:channel.test_channel
+17:12:50 DEBUG:channel.unity_subpackage
+17:12:50 DEBUG:加载管道完成
+17:12:54 DEBUG:检验新渠道
+17:13:48 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:13:50 DEBUG:检验新渠道
+17:13:50 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:13:54 DEBUG:检验新渠道
+17:13:54 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:13:58 DEBUG:检验新渠道
+17:13:58 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:14:21 DEBUG:正在加载管道...
+17:14:21 DEBUG:channel.channel_manager
+17:14:21 DEBUG:channel.test_channel
+17:14:21 DEBUG:channel.unity_subpackage
+17:14:21 DEBUG:加载管道完成
+17:14:25 DEBUG:检验新渠道
+17:14:25 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:14:29 DEBUG:检验新渠道
+17:14:29 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:14:33 DEBUG:检验新渠道
+17:14:55 DEBUG:正在加载管道...
+17:14:55 DEBUG:channel.channel_manager
+17:14:55 DEBUG:channel.test_channel
+17:14:55 DEBUG:channel.unity_subpackage
+17:14:55 DEBUG:加载管道完成
+17:14:59 DEBUG:检验新渠道
+17:14:59 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:15:07 DEBUG:正在加载管道...
+17:15:07 DEBUG:channel.channel_manager
+17:15:07 DEBUG:channel.test_channel
+17:15:07 DEBUG:channel.unity_subpackage
+17:15:07 DEBUG:加载管道完成
+17:15:08 DEBUG:检验新渠道
+17:15:08 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:15:09 DEBUG:检验新渠道
+17:15:09 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:15:10 DEBUG:检验新渠道
+17:15:10 ERROR:Traceback (most recent call last):
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\channel\channel_manager.py", line 40, in update
+    File.WriteAllText(os.path.join(os.getcwd(),'hot_update/update_file.txt').replace('\\','/'),update_cls)
+  File "F:\PythonWorkspace\Python-Projects\Flask_Server\tools\File.py", line 35, in WriteAllText
+    with open(url, 'w+', encoding=__readFpEncoding[url]) as fp:
+KeyError: 'F:/PythonWorkspace/Python-Projects/Flask_Server/hot_update/update_file.txt'
+
+17:17:25 DEBUG:正在加载管道...
+17:17:25 DEBUG:channel.channel_manager
+17:17:25 DEBUG:channel.test_channel
+17:17:25 DEBUG:channel.unity_subpackage
+17:17:25 DEBUG:加载管道完成
+17:17:26 DEBUG:检验新渠道
+17:17:27 DEBUG:检验新渠道
+17:17:28 DEBUG:检验新渠道
+17:17:29 DEBUG:检验新渠道
+17:17:30 DEBUG:检验新渠道
+17:17:31 DEBUG:检验新渠道
+17:17:32 DEBUG:检验新渠道
+17:17:33 DEBUG:检验新渠道
+17:17:34 DEBUG:检验新渠道
+17:17:49 DEBUG:正在加载管道...
+17:17:49 DEBUG:channel.channel_manager
+17:17:49 DEBUG:channel.test_channel
+17:17:49 DEBUG:channel.unity_subpackage
+17:17:49 DEBUG:加载管道完成
+17:17:53 DEBUG:检验新渠道
+17:17:57 DEBUG:检验新渠道
+17:18:01 DEBUG:检验新渠道
+17:18:05 DEBUG:检验新渠道
+17:18:09 DEBUG:检验新渠道
+17:18:13 DEBUG:检验新渠道
+17:18:17 DEBUG:检验新渠道
+17:18:21 DEBUG:检验新渠道
+17:18:25 DEBUG:检验新渠道
+17:18:29 DEBUG:检验新渠道
+17:18:33 DEBUG:检验新渠道
+17:18:37 DEBUG:检验新渠道
+17:18:41 DEBUG:检验新渠道
+17:18:45 DEBUG:检验新渠道
+17:18:49 DEBUG:检验新渠道
+17:18:53 DEBUG:检验新渠道
+17:18:57 DEBUG:检验新渠道
+17:19:01 DEBUG:检验新渠道
+17:19:05 DEBUG:检验新渠道
+17:19:09 DEBUG:检验新渠道
+17:24:06 DEBUG:正在加载管道...
+17:24:06 DEBUG:channel.cesh_channel
+17:24:06 DEBUG:channel.channel_manager
+17:24:06 DEBUG:channel.test_channel
+17:24:06 DEBUG:channel.unity_subpackage
+17:24:06 DEBUG:加载管道完成
+17:24:10 DEBUG:检验新渠道
+17:24:23 DEBUG:正在加载管道...
+17:24:23 DEBUG:channel.cesh_channel
+17:24:23 DEBUG:channel.channel_manager
+17:24:23 DEBUG:channel.test_channel
+17:24:23 DEBUG:channel.unity_subpackage
+17:24:23 DEBUG:加载管道完成
+17:24:27 DEBUG:检验新渠道
+17:24:31 DEBUG:检验新渠道
+17:24:35 DEBUG:检验新渠道
+17:24:39 DEBUG:检验新渠道
+17:25:32 DEBUG:正在加载管道...
+17:25:32 DEBUG:channel.cesh_channel
+17:25:32 DEBUG:channel.channel_manager
+17:25:32 DEBUG:channel.test_channel
+17:25:32 DEBUG:channel.unity_subpackage
+17:25:32 DEBUG:加载管道完成
+17:25:36 DEBUG:检验新渠道
+17:25:45 DEBUG:正在加载管道...
+17:25:45 DEBUG:channel.cesh_channel
+17:25:45 DEBUG:channel.channel_manager
+17:25:45 DEBUG:channel.test_channel
+17:25:45 DEBUG:channel.unity_subpackage
+17:25:45 DEBUG:加载管道完成
+17:25:49 DEBUG:检验新渠道
+17:40:39 ERROR:init hot update
+17:40:43 DEBUG:正在加载管道...
+17:40:43 DEBUG:channel.channel_manager
+17:40:43 DEBUG:channel.unity_subpackage
+17:40:43 DEBUG:加载管道完成
+17:40:47 DEBUG:检验新渠道
+17:40:51 DEBUG:检验新渠道
+17:40:55 DEBUG:检验新渠道
+17:40:59 DEBUG:检验新渠道
+17:41:03 DEBUG:检验新渠道
+17:41:07 DEBUG:检验新渠道
+19:10:51 ERROR:init hot update
+19:10:55 DEBUG:正在加载管道...
+19:10:55 DEBUG:channel.channel_manager
+19:10:55 DEBUG:channel.unity_subpackage
+19:10:55 DEBUG:加载管道完成
+19:18:46 ERROR:init hot update
+19:18:50 DEBUG:正在加载管道...
+19:18:50 DEBUG:channel.channel_manager
+19:18:50 DEBUG:channel.unity_subpackage
+19:18:50 DEBUG:加载管道完成
+19:19:08 ERROR:init hot update
+19:19:13 DEBUG:正在加载管道...
+19:19:13 DEBUG:channel.channel_manager
+19:19:13 DEBUG:channel.unity_subpackage
+19:19:13 DEBUG:加载管道完成

@@ -1,0 +1,9 @@
+20:07:56 ERROR:init hot update
+20:08:00 DEBUG:正在加载管道...
+20:08:00 DEBUG:channel.unity_subpackage
+20:08:00 DEBUG:channel.channel_manager
+20:08:00 DEBUG:channel.punchin_channel
+20:08:00 DEBUG:加载管道完成
+09:08:04 DEBUG:set status: 1
+09:08:10 DEBUG:set status: 1
+14:24:57 DEBUG:set status: 0

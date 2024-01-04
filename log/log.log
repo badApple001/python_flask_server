@@ -1,0 +1,14 @@
+09:42:13 ERROR:init hot update
+09:42:17 DEBUG:正在加载管道...
+09:42:17 DEBUG:channel.unity_subpackage
+09:42:17 DEBUG:channel.tradplus_sdk_depends
+09:42:17 DEBUG:channel.channel_manager
+09:42:17 DEBUG:channel.punchin_channel
+09:42:17 DEBUG:加载管道完成
+20:46:45 ERROR:init hot update
+20:46:49 DEBUG:正在加载管道...
+20:46:49 DEBUG:channel.unity_subpackage
+20:46:49 DEBUG:channel.tradplus_sdk_depends
+20:46:49 DEBUG:channel.channel_manager
+20:46:49 DEBUG:channel.punchin_channel
+20:46:49 DEBUG:加载管道完成
